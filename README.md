@@ -1,4 +1,4 @@
-# 송승환
+# Song SenugHwan (송승환)
 
 Backend engineer in progress, currently studying Artificial Intelligence at Gachon University and taking a leave of absence in my 4th year.
 
