@@ -26,6 +26,25 @@ I like building software that makes my environment more controllable: backend sy
   <img src="./assets/certificates/aws-saa.svg" alt="AWS Certified Solutions Architect - Associate" height="28" />
 </p>
 
+## Experience
+
+### Strong Turtle / 튼튼한거북이
+
+`2025 - Present`
+
+- Worked across backend, frontend, infrastructure, deployment, and internal AX tooling in a small startup environment.
+- Built and maintained Spring-based backend systems, admin/product-facing features, and operational automation.
+- Worked on production/staging deployment flows with Docker, GitHub Actions, AWS, SSM, GHCR, and observability/logging concerns.
+- Contributed to the transition from fast MVP-style product development toward more maintainable domain boundaries and operational processes.
+
+### Coding Instructor
+
+`2024.09 - 2025.12`
+
+- Taught programming in online/offline coding academy settings.
+- Helped students understand programming basics, problem solving, and practical development workflows.
+- Explained code and debugging processes in a way that beginner learners could follow.
+
 ## Tech Stack
 
 ### Backend
@@ -35,9 +54,16 @@ I like building software that makes my environment more controllable: backend sy
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+### Automation / Scripting
+
+![Python](https://img.shields.io/badge/Python%20Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux CLI](https://img.shields.io/badge/Linux%20CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ### Data / Infra
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
