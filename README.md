@@ -32,7 +32,7 @@ I like building backend systems, infrastructure, automation tools, and practical
 
 `2025 - Present`
 
-- Worked across backend, frontend, infrastructure, deployment, and internal AX tooling in a small startup environment.
+- Worked across backend, frontend, infrastructure, deployment, and internal AX tooling.
 - Built and maintained Spring-based backend systems, admin/product-facing features, and operational automation.
 - Worked on production/staging deployment flows with Docker, GitHub Actions, AWS, SSM, GHCR, and observability/logging concerns.
 - Contributed to the transition from fast MVP-style product development toward more maintainable domain boundaries and operational processes.
@@ -52,7 +52,6 @@ I like building backend systems, infrastructure, automation tools, and practical
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Automation / Scripting
 
@@ -67,12 +66,17 @@ I like building backend systems, infrastructure, automation tools, and practical
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### Workflow
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ## Currently
 
