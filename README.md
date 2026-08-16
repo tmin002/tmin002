@@ -30,7 +30,7 @@ I like building backend systems, infrastructure, automation tools, and practical
 
 ### Strong Turtle / 튼튼한거북이
 
-`2025 - Present`
+`2025.07 - Present`
 
 - Worked across backend, frontend, infrastructure, deployment, and internal AX tooling.
 - Built and maintained Spring-based backend systems, admin/product-facing features, and operational automation.
