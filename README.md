@@ -1,8 +1,8 @@
-# tmin002
+# 송승환
 
 Backend engineer in progress, currently studying Artificial Intelligence at Gachon University and taking a leave of absence in my 4th year.
 
-I like building software that makes my environment more controllable: backend systems, infrastructure, automation tools, Linux desktop workflows, and small utilities that solve real problems.
+I like building backend systems, infrastructure, automation tools, and practical utilities that solve real problems.
 
 ## About Me
 
@@ -17,7 +17,7 @@ I like building software that makes my environment more controllable: backend sy
 - Cloud infrastructure and deployment automation
 - Domain-driven design and maintainable service boundaries
 - Internal AX tools and agentic workflows
-- Linux, Sway, terminal-first development environments
+- Linux and terminal-first development workflows
 
 ## Certificates
 
@@ -78,7 +78,7 @@ I like building software that makes my environment more controllable: backend sy
 
 - Deepening backend engineering with Java, Spring, cloud deployment, and operations
 - Building and refining internal automation / AX tools
-- Keeping my development environment simple, inspectable, and reproducible
+- Keeping development workflows simple, inspectable, and reproducible
 
 ## Contact
 
